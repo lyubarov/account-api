@@ -29,7 +29,7 @@ npm run dev
   ```json
   {
     "name": "John Doe",
-    "scope": "account" // or "prospect", "child"
+    "scope": "account"
   }
   ```
 - **Response:**
